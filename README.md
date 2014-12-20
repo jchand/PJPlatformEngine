@@ -1,5 +1,7 @@
 ![PJPlatformEngine](http://i.imgur.com/7b95Kr6.png)
 
+Developed by Jesse Chand & Jacob Pavone.
+
 Features:
  - Running and skidding, acceleration and friction
  - Jumping, wall-jumping, and wall-sliding
